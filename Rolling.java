@@ -9,24 +9,6 @@
  * Notes: Formatting was based on the line and character spacing of the Mac Terminal app (not the IntelliJ terminal)
  */
 
-/*
- * Project Timing Estimates:
- * 1. Prompting the user for information and storing said information - 1 hour (est. 30 mins)
- * 2. Printing out a flat square of the user’s specified size - 1 hour (est. 30 mins)
- * 3. Printing out a square on its point of the user’s specified size - 3 hours (est. 1.5 hours)
- * 4. Printing out the square rolling across the screen without clearing the screen or waiting - 1 hour (est. 30 mins)
- * 5. Animating the square rolling across the screen by clearing the screen and waiting after each rotation - 1 hour (est. 30 mins)
- */
-
-/*
- * Project Timing Results:
- * 1. Prompting the user for information and storing said information - 12 minutes
- * 2. Printing out a flat square of the user’s specified size - 30 minutes
- * 3. Printing out a square on its point of the user’s specified size - 24 minutes
- * 4. Printing out the square rolling across the screen without clearing the screen or waiting - 25 minutes
- * 5. Animating the square rolling across the screen by clearing the screen and waiting after each rotation - 6 minutes
- */
-
 import java.util.Scanner; // for user input
 import java.io.IOException; // to handle exceptions
 
